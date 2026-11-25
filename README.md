@@ -20,6 +20,15 @@ The system helps staff manage product information, monitor stock, create invento
 - Search, display and save inventory order details
 - Generate inventory reports, including low-stock items and price summaries
 
+## Contributors
+
+| Team Member | Contributions |
+| --- | --- |
+| Chan Yi Yang | Main menu and login; collaborated on user registration and inventory ordering |
+| Liew Jia Min | Product editing and inventory order output; collaborated on product creation and inventory ordering |
+| Yew Kai Qian | Inventory viewing and product search; collaborated on user registration and product creation |
+| Leong Di Hao | Product deletion and inventory report generation |
+
 ## My Contributions
 
 - Developed the product editing module, allowing users to locate products by ID and update their details.
